@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(255, 245, 233);
+}
+
+.registerBox {
+  width: 500px;
+  background-color: white;
+  display: block;
+  border-radius: 50px;
+  padding: 40px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.registerBox h1 {
+  text-align: center;
+}
+
+.form {
+  display: block;
+  text-align: center;
+}
+
+.form button {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.formBox {
+  display: block;
+  padding: 10px;
+  text-align: right;
+  padding-right: 180px;
+}
+
+.formBox label {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.item p {
+  font-size: 20px;
+  display: block;
+  font-weight: bold;
+}
